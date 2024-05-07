@@ -1,0 +1,121 @@
+@font-face {
+  font-family: "Thin";
+  src: local("Thin"),
+   url("./assets//fonts//gilroy/Gilroy-Thin.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "ThinItalic";
+  src: local("ThinItalic"),
+   url("./assets//fonts//gilroy/Gilroy-ThinItalic.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "UltraLight";
+  src: local("UltraLight"),
+   url("./assets//fonts//gilroy/Gilroy-UltraLight.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "UltraLightItalic";
+  src: local("UltraLightItalic"),
+   url("./assets//fonts//gilroy/Gilroy-UltraLightItalic.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "Light";
+  src: local("Light"),
+   url("./assets//fonts//gilroy/Gilroy-Light.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "LightItalic";
+  src: local("LightItalic"),
+   url("./assets//fonts//gilroy/Gilroy-LightItalic.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "Medium";
+  src: local("Medium"),
+   url("./assets//fonts//gilroy/Gilroy-Medium.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "MediumItalic";
+  src: local("MediumItalic"),
+   url("./assets//fonts//gilroy/Gilroy-MediumItalic.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "Regular";
+  src: local("Regular"),
+   url("./assets//fonts//gilroy/Gilroy-Regular.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "RegularItalic";
+  src: local("RegularItalic"),
+   url("./assets//fonts//gilroy/Gilroy-RegularItalic.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "Bold";
+  src: local("Bold"),
+   url("./assets//fonts//gilroy/Gilroy-Bold.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "BoldItalic";
+  src: local("BoldItalic"),
+   url("./assets//fonts//gilroy/Gilroy-BoldItalic.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "Semibold";
+  src: local("Semibold"),
+   url("./assets//fonts//gilroy/Gilroy-Semibold.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "SemiboldItalic";
+  src: local("SemiboldItalic"),
+   url("./assets//fonts//gilroy/Gilroy-SemiboldItalic.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "ExtraBoldItalic";
+  src: local("ExtraBoldItalic"),
+   url("./assets//fonts//gilroy/Gilroy-ExtraboldItalic.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "ExtraBold";
+  src: local("ExtraBold"),
+   url("./assets//fonts//gilroy/Gilroy-Extrabold.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "Heavy";
+  src: local("Heavy"),
+   url("./assets//fonts//gilroy/Gilroy-Heavy.ttf") format("truetype");
+ }
+@font-face {
+  font-family: "HeavyItalic";
+  src: local("HeavyItalic"),
+   url("./assets//fonts//gilroy/Gilroy-HeavyItalic.ttf") format("truetype");
+ }
+ /* width */
+::-webkit-scrollbar {
+  width: 10rem;
+  border-radius:50rem;
+  height:0.5rem;
+  width:0.5rem;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background:  #F7FAFC;
+  border-radius:50rem;
+  height:0.5rem;
+  width:0.5rem;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #A0AEC0;
+  border-radius:50rem;
+  height:0.5rem;
+  width:0.5rem;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #718096;
+  border-radius:50rem;
+  height:0.5rem;
+  width:0.5rem;
+}
